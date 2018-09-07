@@ -1,3 +1,6 @@
+# Add myself. miffy
+remote_theme : mmistakes/minimal-mistakes
+
 # Site title
 title: Crossing
 
@@ -8,10 +11,10 @@ tagline: Thoughts, stories and ideas.
 description:
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://barepants.github.io"
+url: "https://mippy-log.github.io"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: "/crossing-jekyll"
+baseurl: ""
 
 # The site cover image on the home page
 image: /crossing-jekyll/images/site-image.jpg
@@ -69,3 +72,5 @@ permalink: /:title/
 markdown: kramdown
 kramdown:
   input: GFM
+
+
